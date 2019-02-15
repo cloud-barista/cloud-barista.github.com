@@ -1,8 +1,8 @@
 # global settings
-title: "GitHub and Government"
-description: "GitHub helps government build software better, together"
+title: "Cloud-Barista for Multi-Cloud"
+description: "Cloud-Barista drives you to Multi-Cloud"
 permalink: "/stories/:title"
-url: https://government.github.com
+url: https://cloud-barista.github.com
 relative_permalinks: false
 analytics_account: "UA-3769691-28"
 
