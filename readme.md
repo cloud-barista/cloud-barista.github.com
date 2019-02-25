@@ -1,19 +1,6 @@
-# GitHub and Government [![Build Status](https://travis-ci.org/github/government.github.com.svg?branch=gh-pages)](https://travis-ci.org/github/government.github.com)
+### Cloud-barista multi-cloud project
 
-![screenshot](assets/img/screenshot.png)
-
-Gather, curate, and feature stories of people using GitHub as part of their open government innovations.
-
-The site is open source (here's all the code!) and is a tool _for_ and _by_ the community.
-
-Submit [issues](https://github.com/github/government.github.com/issues/new) and [pull requests](https://github.com/github/government.github.com/compare/) for stories, site ideas or copy edits.
-
-### Goals
-
-- Share stories of real world experiences using GitHub in open Government
-- Demystify open source terminology
-- Showcase the community using GitHub to promote connections and sharing between individuals and organizations.
-- Make getting started with GitHub easier
+is under construction.
 
 ### Under the Hood
 
