@@ -1,7 +1,7 @@
 ---
-title: Who's using GitHub?
+title: What is Multi-Cloud and Cloud-Barista?
 layout: support-page
-description: fffeeeee
+description: Multi-Cloud and Cloud-Barista
 permalink: /community/
 ---
 
