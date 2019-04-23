@@ -1,8 +1,7 @@
 ---
 title: Who's using GitHub?
 layout: support-page
-description:  ffff
-
+description: ÇÑ±Û
 permalink: /community/
 ---
 
