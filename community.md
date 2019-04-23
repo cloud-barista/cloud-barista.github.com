@@ -5,13 +5,6 @@ description: Government agencies at the national, state, and local level use Git
 permalink: /community/
 ---
 
-
-{% include org-table.html orgs=site.data.governments id="governments" name="Governments" %}
-
-{% include org-table.html orgs=site.data.civic_hackers id="civic_hackers" name="Civic Hackers" %}
-
-{% include org-table.html orgs=site.data.research id="research" name="Government-funded Research" %}
-
 <div id="add-org" class="border-top pt-4 pt-md-6">
   <div class="clearfix gutter-spacious">
     <div class="col-md-6 float-left mb-4">
